@@ -1,6 +1,3 @@
-alpine
-python:alpine3.19
-mysql:8.0.34
-kasmweb/nginx:1.25.3
---platform linux/arm64 cooderl/wewe-rss-sqlite:latest
+mysql:8.0.35
+
 
